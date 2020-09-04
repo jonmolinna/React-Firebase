@@ -1,0 +1,24 @@
+-----------------------------------
+Instagram Clone
+-----------------------------------
+npm install -g firebase-tools
+npm install @material-ui/core
+npm install firebase
+npm install react-instagram-embed
+
+ColorZilla => es una extension de chrome que el color de cualquier pantalla
+
+Para Implementas la aplicacion al firebase
+---------------------------------------------------
+-firebase login => en la consola y con la ubicacion de la carpeta
+-y => selecciona la y selecionas tu usuario
+-firebase init => 
+-Hosting: Configure and deploy Firebase Hosting sites => Seleccionas esta opcion
+-Use a existing project
+-instagram-clone
+-your public directorio? build
+-(y/n) => y
+-npm run build
+-firebase deploy
+
+firebase logout
