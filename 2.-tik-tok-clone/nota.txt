@@ -1,0 +1,16 @@
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install react-ticker => Modulo que mueve texto, imagenes y videos
+npm install firebase
+
+
+Para implementar el Servicio de Firebase
+--------------------------------------------
+firebase init
+Hosting: Configure and deploy Firebase Hosting Sites
+Use an existing project
+tik-tok-clone
+build
+y
+npm run build
+firebase deploy
