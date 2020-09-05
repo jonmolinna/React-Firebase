@@ -1,0 +1,13 @@
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install react-router-dom
+
+Implementar Firebase
+-----------------------------------------
+firebase init
+Hosting: Configure and deploy Firebase Hosting Sites
+Use an existing project
+youtube_clone
+npm run build
+index.html (y/n) y
+firebase deploy
