@@ -1,0 +1,19 @@
+npm install @material-ui/core
+npm install @material-ui/icons
+
+npm install firebase
+
+Para la Imprementacion de Firebase a la Nube
+----------------------------------------------------
+npm install -g firebase-tools
+firebase logout => para salir
+firebase login
+
+firebase init
+Hosting
+use an existing project
+facebook-clone
+build
+Configure as a single-page app......? Y
+npm run build
+firebase deploy
