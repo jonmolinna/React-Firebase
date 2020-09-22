@@ -1,0 +1,18 @@
+npm install @material-ui/core
+npm install @material-ui/icons
+
+npm install firebase
+npm install react-router-dom
+
+Para implementar
+------------------------------------
+firebase login
+
+firebase init
+Hosting
+Use an existing project
+whatsapp-clone
+....public directory? build
+Configure as a single-page.......? Y
+npm run build
+firebase deploy
