@@ -1,0 +1,16 @@
+npm install @material-ui/core
+npm install firebase
+npm i -S react-flip-move => Para dar efectos de movimiento a los mensajes
+npm install @material-ui/icons
+
+Para implementar a firebase
+-------------------------------------
+npm install -g firebase-tools
+firebase init
+Hosting
+Use an existing project
+facebook-messegeer-clone
+What do you want to use .........? build
+Configure as a single-page app........? Y
+npm run build
+firebase deploy
